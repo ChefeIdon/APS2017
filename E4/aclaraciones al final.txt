@@ -1,0 +1,5 @@
+Aclaración:
+
+La implementación de los requerimientos funcionales referidos a la incorporación de microtransacciones dentro de la aplicación no estan contemplados en el alcance de este proyecto
+
+//Algo asi estara bien? 
